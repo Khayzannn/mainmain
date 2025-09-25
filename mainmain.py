@@ -23,12 +23,7 @@
  elif pemakaian > 300:
     print(f'total tagihan anda {total3}')
 
-#Wahana Roller Coaster Tornado Dufan memiliki ketentuan bagi para pengunjung, yakni pengunjung harus memiliki tinggi badan minimal 145 cm. 
-# Selain itu, pengunjung tidak
-# diizinkan untuk menaiki wahana tersebut. Terapkan IF/ELSE dan ternary operator pada
-# kasus di atas!
 
-while True:
-    print('GABOLE YAAAAA')
+
 
 
